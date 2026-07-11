@@ -1,7 +1,0 @@
-1-ci PowerShell Pəncərəsi (Server üçün):powershellcd "$env:USERPROFILE\OneDrive\Desktop\free-claude-code-main"
-$env:OPENROUTER_API_KEY="SİZİN_OPENROUTER_AÇARINIZ"
-$env:MODEL="open_router/google/gemini-2.5-flash:free"
-uv run python server.py
-Koddan ehtiyatla istifadə edin.2-ci PowerShell Pəncərəsi (İstifadə üçün):powershellcd "$env:USERPROFILE\OneDrive\Desktop\free-claude-code-main"
-uv run fcc-claude
-Koddan ehtiyatla istifadə edin.
